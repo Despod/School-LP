@@ -1,0 +1,29 @@
+{
+  "name": "ShalamovaSchoolLandingPage",
+  "description": "Shalamova School Landing Page",
+  "main": "index.html",
+  "authors": [
+    "Alec.Shalamov"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "School"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "animate.css": "^3.5.2",
+    "Ionicons": "ionicons#^2.0.1",
+    "jquery-easing": "*",
+    "wow": "^1.1.2",
+    "jquery": "^3.1.1"
+  }
+}
